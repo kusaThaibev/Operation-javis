@@ -13,4 +13,7 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 
+    for i in range(0,100):
+        print(i)
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
